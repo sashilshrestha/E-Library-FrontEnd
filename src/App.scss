@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+#hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/HeroSection.png");
+}
+
+#features {
+  background-color: #edf2f7;
+
+  .icons {
+    background-color: #edf2f7;
+  }
+}
+
+#newsletter {
+  background-color: #edf2f7;
+}
+
+#particles-js {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  position: absolute;
+  background-color: red;
+}
